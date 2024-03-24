@@ -117,5 +117,5 @@ def benchmark(npart=100, method = 'python'):
 if __name__ == "__main__":
     
     test_visualize()
-    #test_evolve()
+    test_evolve()
     benchmark()

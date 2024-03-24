@@ -102,6 +102,6 @@ def benchmark():
     
 if __name__ == "__main__":
     
-    test_visualize()
+    #test_visualize()
     test_evolve()
     benchmark()
